@@ -1,7 +1,7 @@
 ## Content
 Reupload 2022
 
-This repository contains the comparative methods [application](https://mintdata.shinyapps.io/airline/).
+This repository contains the passangers satisfaction predictive [application](https://mintdata.shinyapps.io/airline/).
 
 ## Functionalities
 This application allows for interactive visualization of information about airline passengers. By selecting different dimensions, users can compare various passenger characteristics to assess their satisfaction with flights and explore the impact of individual factors. Additionally, a dedicated predictive module enables users to define a “sample passenger” and predict their satisfaction. The algorithm also identifies similar passengers to one defined by user so that you can verify likelihood of such a passanger.
